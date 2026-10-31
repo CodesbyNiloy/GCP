@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Clothes",
+        "slug": "clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2026-10-29T19:12:49.000Z",
+        "updatedAt": "2026-10-29T19:12:49.000Z"
+    },
+    {
+        "id": 2,
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2026-10-29T19:12:49.000Z",
+        "updatedAt": "2026-10-29T19:12:49.000Z"
+    },
+    {
+        "id": 3,
+        "name": "Furniture",
+        "slug": "furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2026-10-29T19:12:49.000Z",
+        "updatedAt": "2026-10-29T19:12:49.000Z"
+    },
+    {
+        "id": 4,
+        "name": "Shoes",
+        "slug": "shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2026-10-29T19:12:49.000Z",
+        "updatedAt": "2026-10-29T19:12:49.000Z"
+    },
+    {
+        "id": 5,
+        "name": "Miscellaneous",
+        "slug": "miscellaneous",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2026-10-29T19:12:49.000Z",
+        "updatedAt": "2026-10-29T19:12:49.000Z"
+    },
+    {
+        "id": 6,
+        "name": "API Canvas",
+        "slug": "api-canvas",
+        "image": "https://fake.com/fakeImg.png",
+        "creationAt": "2026-10-29T19:17:43.000Z",
+        "updatedAt": "2026-10-29T19:17:43.000Z"
+    },
+    {
+        "id": 7,
+        "name": "string",
+        "slug": "string",
+        "image": "https://pravatar.cc/",
+        "creationAt": "2026-10-29T21:00:12.000Z",
+        "updatedAt": "2026-10-29T21:00:12.000Z"
+    },
+    {
+        "id": 11,
+        "name": "categoría EB",
+        "slug": "categoria-eb",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-10-29T23:48:30.000Z",
+        "updatedAt": "2026-10-29T23:48:30.000Z"
+    },
+    {
+        "id": 22,
+        "name": "testCategory1f2a774c6de343e485c4f1975c2c456c",
+        "slug": "testcategory1f2a774c6de343e485c4f1975c2c456c",
+        "image": "http://www.gonzalez.com/",
+        "creationAt": "2026-10-30T04:57:42.000Z",
+        "updatedAt": "2026-10-30T04:57:42.000Z"
+    },
+    {
+        "id": 23,
+        "name": "test Category861d2d0acbb64eaa81e5cce4947b5a78",
+        "slug": "test-category861d2d0acbb64eaa81e5cce4947b5a78",
+        "image": "https://www.erickson-smith.net/",
+        "creationAt": "2026-10-30T04:57:42.000Z",
+        "updatedAt": "2026-10-30T04:57:42.000Z"
+    },
+    {
+        "id": 31,
+        "name": "Personal Care_8b1ea6dcd5a141fa93eef635563338ec",
+        "slug": "personal-care-8b1ea6dcd5a141fa93eef635563338ec",
+        "image": "http://jones.com/",
+        "creationAt": "2026-10-30T04:57:44.000Z",
+        "updatedAt": "2026-10-30T04:57:44.000Z"
+    },
+    {
+        "id": 43,
+        "name": "Testing Category",
+        "slug": "testing-category",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-10-30T06:01:09.000Z",
+        "updatedAt": "2026-10-30T06:01:09.000Z"
+    },
+    {
+        "id": 45,
+        "name": "Test Category - Shop.kz",
+        "slug": "test-category-shop-kz",
+        "image": "https://placehold.co/300x300.png",
+        "creationAt": "2026-10-30T10:44:18.000Z",
+        "updatedAt": "2026-10-30T10:44:18.000Z"
+    },
+    {
+        "id": 46,
+        "name": "Grosery",
+        "slug": "grosery",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-10-30T11:00:39.000Z",
+        "updatedAt": "2026-10-30T11:00:39.000Z"
+    },
+    {
+        "id": 47,
+        "name": "Computer Category",
+        "slug": "computer-category",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-10-30T11:00:42.000Z",
+        "updatedAt": "2026-10-30T11:00:42.000Z"
+    },
+    {
+        "id": 49,
+        "name": "New Category 3",
+        "slug": "new-category-3",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-10-30T15:00:38.000Z",
+        "updatedAt": "2026-10-30T15:00:38.000Z"
+    }
+]

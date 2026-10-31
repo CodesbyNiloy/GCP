@@ -1,0 +1,17 @@
+id,name,slug,image,creationAt,updatedAt
+1,Clothes,clothes,https://i.imgur.com/QkIa5tT.jpeg,2026-10-29T19:12:49.000Z,2026-10-29T19:12:49.000Z
+2,Electronics,electronics,https://i.imgur.com/ZANVnHE.jpeg,2026-10-29T19:12:49.000Z,2026-10-29T19:12:49.000Z
+3,Furniture,furniture,https://i.imgur.com/Qphac99.jpeg,2026-10-29T19:12:49.000Z,2026-10-29T19:12:49.000Z
+4,Shoes,shoes,https://i.imgur.com/qNOjJje.jpeg,2026-10-29T19:12:49.000Z,2026-10-29T19:12:49.000Z
+5,Miscellaneous,miscellaneous,https://i.imgur.com/BG8J0Fj.jpg,2026-10-29T19:12:49.000Z,2026-10-29T19:12:49.000Z
+6,API Canvas,api-canvas,https://fake.com/fakeImg.png,2026-10-29T19:17:43.000Z,2026-10-29T19:17:43.000Z
+7,string,string,https://pravatar.cc/,2026-10-29T21:00:12.000Z,2026-10-29T21:00:12.000Z
+11,categoría EB,categoria-eb,https://placeimg.com/640/480/any,2026-10-29T23:48:30.000Z,2026-10-29T23:48:30.000Z
+22,testCategory1f2a774c6de343e485c4f1975c2c456c,testcategory1f2a774c6de343e485c4f1975c2c456c,http://www.gonzalez.com/,2026-10-30T04:57:42.000Z,2026-10-30T04:57:42.000Z
+23,test Category861d2d0acbb64eaa81e5cce4947b5a78,test-category861d2d0acbb64eaa81e5cce4947b5a78,https://www.erickson-smith.net/,2026-10-30T04:57:42.000Z,2026-10-30T04:57:42.000Z
+31,Personal Care_8b1ea6dcd5a141fa93eef635563338ec,personal-care-8b1ea6dcd5a141fa93eef635563338ec,http://jones.com/,2026-10-30T04:57:44.000Z,2026-10-30T04:57:44.000Z
+43,Testing Category,testing-category,https://placeimg.com/640/480/any,2026-10-30T06:01:09.000Z,2026-10-30T06:01:09.000Z
+45,Test Category - Shop.kz,test-category-shop-kz,https://placehold.co/300x300.png,2026-10-30T10:44:18.000Z,2026-10-30T10:44:18.000Z
+46,Grosery,grosery,https://placeimg.com/640/480/any,2026-10-30T11:00:39.000Z,2026-10-30T11:00:39.000Z
+47,Computer Category,computer-category,https://placeimg.com/640/480/any,2026-10-30T11:00:42.000Z,2026-10-30T11:00:42.000Z
+49,New Category 3,new-category-3,https://placeimg.com/640/480/any,2026-10-30T15:00:38.000Z,2026-10-30T15:00:38.000Z

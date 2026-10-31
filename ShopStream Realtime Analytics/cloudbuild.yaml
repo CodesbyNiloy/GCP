@@ -1,0 +1,16 @@
+
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-f'
+      - 'producer/Dockerfile'
+      - '-t'
+      - 'asia-south1-docker.pkg.dev/shopstream-realtime-analytics/shopstream-images/shopstream-producer:v1'
+      - '.'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'asia-south1-docker.pkg.dev/shopstream-realtime-analytics/shopstream-images/shopstream-producer:v1'
+

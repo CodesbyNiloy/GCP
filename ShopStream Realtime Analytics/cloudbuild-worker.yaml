@@ -1,0 +1,15 @@
+
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-f'
+      - 'worker/Dockerfile'
+      - '-t'
+      - 'asia-south1-docker.pkg.dev/shopstream-realtime-analytics/shopstream-images/shopstream-worker:v1'
+      - '.'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'asia-south1-docker.pkg.dev/shopstream-realtime-analytics/shopstream-images/shopstream-worker:v1'

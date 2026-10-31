@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,country,city,phone
+c5d2419b-f67c-4615-bdf3-0c2d6d7a0e6e,Mario,Gil,mario.gil@example.com,Spain,Arrecife,948-460-848
+73609e65-cea0-4b8a-b61b-5c4938800a86,Arvin,Rydland,arvin.rydland@example.com,Norway,Nevlunghamn,55272290
+0c7099c7-84c4-43e1-b418-36ef825c42db,Dolores,Castillo,dolores.castillo@example.com,Spain,Burgos,985-438-216
+2473e70d-0ded-4205-a30d-866d4295fb47,Jessica,Jackson,jessica.jackson@example.com,Ireland,Bandon,051-095-8074
+3bd16d93-9889-4777-b281-abe528a49cfc,Jake,Hill,jake.hill@example.com,United Kingdom,Cardiff,015396 56268
+e4ea1e8d-0c7b-4ad3-951e-9a5331777699,Emir,Sølvberg,emir.solvberg@example.com,Norway,Brønnøysund,52245108
+1cca459d-5edb-43fd-9bb5-31c04e200fbb,Lesa,Day,lesa.day@example.com,Australia,Devonport,06-3114-1241
+97ae6205-e01b-4588-96ef-a7a299053496,Carter,Knight,carter.knight@example.com,Canada,Princeton,S57 H26-6704
+b85b4c38-a39e-4650-b63a-0a8046034152,Falko,Homann,falko.homann@example.com,Germany,Marbach am Neckar,0077-6567304
+62de4de2-e566-4d3a-bfee-3c7908fc7850,Claus-Peter,Hense,claus-peter.hense@example.com,Germany,Waren (Müritz),0818-4271156
+f279d157-7296-446e-9814-0ce291d231c0,Sarah,Parker,sarah.parker@example.com,United States,Cedar Hill,(512) 216-9763
+8c48a8ed-4118-4b68-af3b-54dd9212cf71,Kalina,Zubrickiy,kalina.zubrickiy@example.com,Ukraine,Oleksandrivsk,(066) B23-1920
+e3278977-1763-4368-a0d9-d618c948b0a9,Mads,Madsen,mads.madsen@example.com,Denmark,Sandved,02851739
+faa5c998-d648-4eb3-9ac1-6b9521724724,Charlotte,Margaret,charlotte.margaret@example.com,Canada,New Glasgow,O42 N96-9856
+f1d48fcb-2740-4c44-9637-6c8adf146d8b,Lila,Morel,lila.morel@example.com,France,Dijon,05-00-73-23-74
+8782ecfb-8c43-499b-86fe-94294708b043,Sofie,Larsen,sofie.larsen@example.com,Denmark,Jerslev Sj,91765310
+bd9d6fe2-6cd6-46ad-940a-f794f9880a44,August,Sørensen,august.sorensen@example.com,Denmark,Klitmøller,86736185
+914a2466-f5fb-4667-a1ec-2fce14269208,Lily,Burke,lily.burke@example.com,United Kingdom,Liverpool,01791 570903
+42abc99b-be51-4171-86d1-4343eae0d877,Gabriel,Parker,gabriel.parker@example.com,United States,Seymour,(708) 692-0586
+a792837e-14b8-4498-bf44-bcbfa6956bff,Kaylee,Dros,kaylee.dros@example.com,Netherlands,Dantumadiel,(014) 0429921
+f89a88eb-63c7-4344-967a-87c345b33a3f,Adam,Miles,adam.miles@example.com,United Kingdom,Stevenage,016974 85134
+9ecc0bba-8ac5-4177-a9a0-8615fa362544,Connor,Franklin,connor.franklin@example.com,United Kingdom,Salford,015395 00401
+007d3a8b-d864-4158-a0d1-d74b228a464a,Bastien,Chevalier,bastien.chevalier@example.com,France,Tourcoing,01-40-85-13-54
+99c99fcd-a385-4722-ac78-53d96d0ac594,Bianca,Grøtan,bianca.grotan@example.com,Norway,Hem,53614468
+402aeca5-0157-4fd3-b708-0e0e870af955,German,Bravo,german.bravo@example.com,Spain,Torrevieja,923-865-114
+c2a5132c-d4ce-4da3-958d-421462e40a64,Isabelle,Byrd,isabelle.byrd@example.com,United Kingdom,Exeter,015396 34831
+9343287a-07b2-4601-b4c7-95c9611aa03d,William,Andersen,william.andersen@example.com,Denmark,Hammel,97221376
+c5f18f3f-bc43-470a-ad4a-ae1c9e522cbf,Nicoline,Larsen,nicoline.larsen@example.com,Denmark,Bælum,64101659
+6a03e1f2-9648-4faf-99a2-98f4689d5ca0,Wilma,Bishop,wilma.bishop@example.com,Australia,Gladstone,04-7218-8187
+b1e9ff3d-556a-48b9-bf05-4a87a3dc2d43,Peter,Langeland,peter.langeland@example.com,Norway,Lakselv,53619645
+e83d00c4-45c6-4f5d-91e0-311e750823ce,Franklin,Bates,franklin.bates@example.com,United Kingdom,Swansea,017687 95156
+d1053f07-d647-4fa4-8ad0-7fe1ba85305f,Crystal,Snyder,crystal.snyder@example.com,United States,Colorado Springs,(611) 850-6476
+3baf7372-472e-4bfb-a5dc-2b726b5f1134,Rafaelo,da Costa,rafaelo.dacosta@example.com,Brazil,Caraguatatuba,(74) 1363-3626
+dac5a2d9-85b2-4131-92d3-e799121ed836,Amelia,Solís,amelia.solis@example.com,Mexico,Tacoaleche,(695) 508 0624
+f5af7e29-f510-4889-9feb-77cf28b1f16b,Mudrolyub,Turchenko,mudrolyub.turchenko@example.com,Ukraine,Antracit,(066) I26-0174
+dbfee457-284c-429b-b3ab-b6488056fbe2,Stephanie,Elliott,stephanie.elliott@example.com,United Kingdom,Westminster,016973 48500
+8f7ab9e2-7466-4911-9d03-9a50d5e08add,Pauline,Chevalier,pauline.chevalier@example.com,France,Lille,04-46-03-21-54
+1b7bc9d2-fa8c-448a-b7ad-016219bec902,Zeloí,Pereira,zeloi.pereira@example.com,Brazil,Jaboatão dos Guararapes,(12) 9076-4473
+ac51db34-10cd-4205-aa6e-5489576f9dfb,Andre,Meyer,andre.meyer@example.com,United Kingdom,Ripon,016973 47121
+0d3bc9f9-8ba6-4a2f-b5a7-bdd79180ad1f,Héctor,Ballesteros,hector.ballesteros@example.com,Mexico,Santiago Alseseca,(609) 475 8742
+17ae2ba0-e9f4-408d-ac3f-9e8a4a952939,Erin,Castillo,erin.castillo@example.com,United Kingdom,Leicester,016973 04241
+7da87347-9d23-42b9-bc09-34d7b3c2c260,Élsio,Moreira,elsio.moreira@example.com,Brazil,Rio de Janeiro,(54) 9140-9242
+ff4222ce-ccff-4534-9dbb-c642771c6351,Thomas,Skorpen,thomas.skorpen@example.com,Norway,Lysøysund,69351189
+0d965095-bdcd-425f-96a9-db9489ac0b93,Timmothy,Mccoy,timmothy.mccoy@example.com,Australia,Geelong,03-8001-9442
+d276482f-62e5-4b7f-a606-13ef8470f178,Alice,Sonnenberg,alice.sonnenberg@example.com,Germany,Landau in der Pfalz,0521-5766572
+966bbf04-f196-47ae-aa76-3d37b14efd83,Rafael,Garrido,rafael.garrido@example.com,Spain,Oviedo,954-089-085
+102d9b11-7ad2-4945-928d-c8b8b6ca5cef,Oya,Bolatlı,oya.bolatli@example.com,Turkey,Kayseri,(020)-145-2131
+d1b6d9e5-1e1e-49b0-a811-b3b5d4467436,سام,کامروا,sm.khmrw@example.com,Iran,کرمانشاه,008-85075283
+f552ac35-d5e4-47b1-8212-4658a825ad77,Silata,Pustoviyt,silata.pustoviyt@example.com,Ukraine,Ustilug,(097) J33-9846
+103be6b1-33d1-4c25-a3c2-2247bf50e1b7,Jennifer,Carlson,jennifer.carlson@example.com,Ireland,Nenagh,061-588-3227
+9d05f020-5cee-430d-8f1f-0addc571994b,Christopher,Daniels,christopher.daniels@example.com,Ireland,Kilcock,031-561-4654
+65b4a900-701f-4600-ba55-d99f281ba6b1,Siiri,Joki,siiri.joki@example.com,Finland,Akaa,04-648-694
+36ff1309-5b91-443c-a284-0be69204e7bb,Charlie,Thomas,charlie.thomas@example.com,New Zealand,Tauranga,(847)-968-8245
+299db0cb-87b0-4042-a4a2-ee586641b3a3,Eloísa,Silva,eloisa.silva@example.com,Brazil,Araguaína,(86) 5715-2966
+84dfe385-21f0-4ef8-bd04-a53642283aeb,Dora,Moreau,dora.moreau@example.com,Switzerland,Aegerten,077 110 47 44
+d45af41d-505b-4441-a0e9-14970b48b01d,Elisa,Blanco,elisa.blanco@example.com,Mexico,San Lorenzo Cuapiaxtla,(669) 040 2348
+41559abc-2470-4d14-9d4a-4b9dc45611e7,Silvija,Kapetanović,silvija.kapetanovic@example.com,Serbia,Veliko Gradište,021-8481-080
+5a2779d4-63fe-40e3-9ef4-160eeceafdee,Jeanette,Martinez,jeanette.martinez@example.com,United States,Austin,(920) 230-8843
+3e59c65b-2645-4d99-9276-7413a0585606,Nastasija,Ivkov,nastasija.ivkov@example.com,Serbia,Brus,029-0217-865
+667e615f-9856-40dc-94ed-fd5ec9b36b2c,Mónica,León,monica.leon@example.com,Spain,La Palma,954-056-358
+56c9d427-a188-46bd-9fd5-6eec39fcae75,Genesis,Kuhn,genesis.kuhn@example.com,Australia,Bowral,03-2490-5508
+b520efd6-3cb2-4259-a776-6d5296ee6b3c,بهاره,گلشن,bhrh.glshn@example.com,Iran,ایلام,016-86066339
+87286d80-fa8a-4667-98ed-4dc1b2d291b1,Allie,White,allie.white@example.com,Ireland,Ratoath,061-051-4918
+37a0f787-ae3a-4805-a76e-a23872ca0074,Alizee,Rolland,alizee.rolland@example.com,France,Angers,03-97-67-75-22
+6f1e9e0e-6d7d-4f06-959b-4290dadd6930,Russell,Stanley,russell.stanley@example.com,Australia,Bundaberg,05-5972-6035
+4af41e80-bd42-4731-baaa-0aeb3435ba95,Anton,Toivonen,anton.toivonen@example.com,Finland,Kitee,08-665-385
+50c88a0c-4db6-4a09-b236-406733b7bb30,Sofia,King,sofia.king@example.com,United Kingdom,Birmingham,016974 37330
+6b7212a8-fe9e-4305-9ea8-6f0df1c8bf6f,Mariano,Crespo,mariano.crespo@example.com,Spain,Murcia,977-410-293
+e486d12d-5c5b-4d67-b43e-d3dbeb2dda41,Anna-Lena,Mey,anna-lena.mey@example.com,Germany,Monheim am Rhein,0890-1093462
+8eb84049-b6c7-42f5-a2a5-02ae40334bd7,Arron,Morris,arron.morris@example.com,United States,Lancaster,(301) 882-9448
+6592e978-c6af-4549-b437-3508e1d0b9cc,Marlissa,Tacken,marlissa.tacken@example.com,Netherlands,Aa en Hunze,(098) 6139637
+c0f3ca27-628e-4d92-a02b-b9889fb3c2ef,Victoria,Ljosland,victoria.ljosland@example.com,Norway,Selvik,85435763
+995ea093-c5c5-462d-9862-604730757e67,Katherine,Black,katherine.black@example.com,Ireland,Athlone,061-135-4112
+7908404c-e478-4a0f-9625-e28fe047dec1,Karla,Valverde,karla.valverde@example.com,Mexico,Corral Nuevo,(634) 859 7796
+2f828b1f-9e67-48b2-86aa-0deae76e2723,Blagovid,Ievtushok,blagovid.ievtushok@example.com,Ukraine,Avdiyivka,(098) Z97-5235
+eda115a4-7a48-478d-a651-77b6bf9b9e38,Melvin,Weaver,melvin.weaver@example.com,United States,Birmingham,(208) 594-5911
+76779475-acdf-4b3d-95ee-3dcaee3560d8,Iva,Radosavljević,iva.radosavljevic@example.com,Serbia,Novi Sad,020-5370-592
+685c922c-9097-4ca1-bd99-7358613402f2,Angélica,Rodríquez,angelica.rodriquez@example.com,Mexico,Valle de Ignacio Allende,(659) 303 8490
+03c3f443-cb68-48bb-9245-327112c626a6,Melodie,Harcourt,melodie.harcourt@example.com,Canada,Shelbourne,B54 N87-0681
+4a59583b-96c6-4647-9be7-8550aa1d79a9,Dylan,Gerard,dylan.gerard@example.com,France,Saint-Étienne,01-57-56-40-21
+6700731d-e60c-4c47-bf98-0d0a471dd51c,Anica,Peković,anica.pekovic@example.com,Serbia,Žabari,038-3033-887
+f9de3bdc-4252-4e19-98e9-0f8a8dddf6ee,Britney,Morgan,britney.morgan@example.com,Ireland,Ballinasloe,071-787-6136
+02df053a-01c6-430a-8374-c7fe3e5e8e31,Jenny,Little,jenny.little@example.com,Ireland,Mullingar,031-734-1160
+aff1ba83-9265-41e3-98c2-3d6256786515,Óscar,Villa,oscar.villa@example.com,Mexico,Ixtapaluca,(687) 575 3615
+6390c612-6fb8-4070-a460-47f010f108a5,Efe,Çankaya,efe.cankaya@example.com,Turkey,Karaman,(273)-851-5994
+6d1824df-7d80-40c5-8165-5590d4eb7512,Egon,Hemmer,egon.hemmer@example.com,Germany,Oldenburg In Holstein,0670-9728150
+42dcbe47-02fe-4eeb-a131-c25084a4ade1,Zayan,Sullad,zayan.sullad@example.com,India,Berhampur,9566877907
+e1daae1f-84d6-43c9-b0f9-a2139af1d4c8,Korina,Kapinos,korina.kapinos@example.com,Ukraine,Zolochiv,(068) M65-9545
+a20a828c-a7ca-4f86-ad2b-cd861afe72e4,Rosa,Christensen,rosa.christensen@example.com,Denmark,Stenderup,73319597
+bf42aacc-7a05-4329-a65d-b338479fbb15,Donna,Delissen,donna.delissen@example.com,Netherlands,Katwijk,(063) 1725571
+8fc38db7-a285-4b21-84e6-e57a6924f1ba,عسل,حیدری,aasl.hydry@example.com,Iran,بابل,060-56474672
+c5bdff8b-6e36-42c7-838e-1cbd700953bb,Constance,Carroll,constance.carroll@example.com,Australia,Brisbane,09-2180-7459
+a3f46ad6-8844-4340-a626-1fb9d203e8c8,Gerald,Laub,gerald.laub@example.com,Germany,Viechtach,0736-9430154
+b6f0f4be-96d5-4f84-b0a9-c8ee4cee4730,Benjamin,Lam,benjamin.lam@example.com,Canada,Cornwall,P07 S15-4945
+c5229301-657c-4232-8dd8-a350472652ec,Dragoje,Vidić,dragoje.vidic@example.com,Serbia,Bački Petrovac,032-0919-015
+f1dc936a-ca47-4a7e-b916-6ec388883fc9,Israel,Ureña,israel.urena@example.com,Mexico,Ojo de Agua de Palmillas,(696) 557 8943
+c4e3bfa1-1a4d-42c0-b635-1096e3c198e8,Olivia,Cunningham,olivia.cunningham@example.com,Ireland,Athy,021-466-6382
+f3f25f45-e2ad-49bd-9a66-12c0c77b7d03,Roger,Crawford,roger.crawford@example.com,United Kingdom,Norwich,016974 29748
+7969bef5-0f7b-49cc-a4c2-a9514f1cd1c8,Rogerio,Solís,rogerio.solis@example.com,Mexico,Ciudad Santa Catarina,(692) 851 9246
+eef67952-7448-475c-9700-f543b004f5d5,Cathriona,Pierce,cathriona.pierce@example.com,Ireland,Kilcock,041-869-1060

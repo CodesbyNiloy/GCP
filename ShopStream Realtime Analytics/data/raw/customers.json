@@ -1,0 +1,902 @@
+[
+    {
+        "customer_id": "c5d2419b-f67c-4615-bdf3-0c2d6d7a0e6e",
+        "first_name": "Mario",
+        "last_name": "Gil",
+        "email": "mario.gil@example.com",
+        "country": "Spain",
+        "city": "Arrecife",
+        "phone": "948-460-848"
+    },
+    {
+        "customer_id": "73609e65-cea0-4b8a-b61b-5c4938800a86",
+        "first_name": "Arvin",
+        "last_name": "Rydland",
+        "email": "arvin.rydland@example.com",
+        "country": "Norway",
+        "city": "Nevlunghamn",
+        "phone": "55272290"
+    },
+    {
+        "customer_id": "0c7099c7-84c4-43e1-b418-36ef825c42db",
+        "first_name": "Dolores",
+        "last_name": "Castillo",
+        "email": "dolores.castillo@example.com",
+        "country": "Spain",
+        "city": "Burgos",
+        "phone": "985-438-216"
+    },
+    {
+        "customer_id": "2473e70d-0ded-4205-a30d-866d4295fb47",
+        "first_name": "Jessica",
+        "last_name": "Jackson",
+        "email": "jessica.jackson@example.com",
+        "country": "Ireland",
+        "city": "Bandon",
+        "phone": "051-095-8074"
+    },
+    {
+        "customer_id": "3bd16d93-9889-4777-b281-abe528a49cfc",
+        "first_name": "Jake",
+        "last_name": "Hill",
+        "email": "jake.hill@example.com",
+        "country": "United Kingdom",
+        "city": "Cardiff",
+        "phone": "015396 56268"
+    },
+    {
+        "customer_id": "e4ea1e8d-0c7b-4ad3-951e-9a5331777699",
+        "first_name": "Emir",
+        "last_name": "Sølvberg",
+        "email": "emir.solvberg@example.com",
+        "country": "Norway",
+        "city": "Brønnøysund",
+        "phone": "52245108"
+    },
+    {
+        "customer_id": "1cca459d-5edb-43fd-9bb5-31c04e200fbb",
+        "first_name": "Lesa",
+        "last_name": "Day",
+        "email": "lesa.day@example.com",
+        "country": "Australia",
+        "city": "Devonport",
+        "phone": "06-3114-1241"
+    },
+    {
+        "customer_id": "97ae6205-e01b-4588-96ef-a7a299053496",
+        "first_name": "Carter",
+        "last_name": "Knight",
+        "email": "carter.knight@example.com",
+        "country": "Canada",
+        "city": "Princeton",
+        "phone": "S57 H26-6704"
+    },
+    {
+        "customer_id": "b85b4c38-a39e-4650-b63a-0a8046034152",
+        "first_name": "Falko",
+        "last_name": "Homann",
+        "email": "falko.homann@example.com",
+        "country": "Germany",
+        "city": "Marbach am Neckar",
+        "phone": "0077-6567304"
+    },
+    {
+        "customer_id": "62de4de2-e566-4d3a-bfee-3c7908fc7850",
+        "first_name": "Claus-Peter",
+        "last_name": "Hense",
+        "email": "claus-peter.hense@example.com",
+        "country": "Germany",
+        "city": "Waren (Müritz)",
+        "phone": "0818-4271156"
+    },
+    {
+        "customer_id": "f279d157-7296-446e-9814-0ce291d231c0",
+        "first_name": "Sarah",
+        "last_name": "Parker",
+        "email": "sarah.parker@example.com",
+        "country": "United States",
+        "city": "Cedar Hill",
+        "phone": "(512) 216-9763"
+    },
+    {
+        "customer_id": "8c48a8ed-4118-4b68-af3b-54dd9212cf71",
+        "first_name": "Kalina",
+        "last_name": "Zubrickiy",
+        "email": "kalina.zubrickiy@example.com",
+        "country": "Ukraine",
+        "city": "Oleksandrivsk",
+        "phone": "(066) B23-1920"
+    },
+    {
+        "customer_id": "e3278977-1763-4368-a0d9-d618c948b0a9",
+        "first_name": "Mads",
+        "last_name": "Madsen",
+        "email": "mads.madsen@example.com",
+        "country": "Denmark",
+        "city": "Sandved",
+        "phone": "02851739"
+    },
+    {
+        "customer_id": "faa5c998-d648-4eb3-9ac1-6b9521724724",
+        "first_name": "Charlotte",
+        "last_name": "Margaret",
+        "email": "charlotte.margaret@example.com",
+        "country": "Canada",
+        "city": "New Glasgow",
+        "phone": "O42 N96-9856"
+    },
+    {
+        "customer_id": "f1d48fcb-2740-4c44-9637-6c8adf146d8b",
+        "first_name": "Lila",
+        "last_name": "Morel",
+        "email": "lila.morel@example.com",
+        "country": "France",
+        "city": "Dijon",
+        "phone": "05-00-73-23-74"
+    },
+    {
+        "customer_id": "8782ecfb-8c43-499b-86fe-94294708b043",
+        "first_name": "Sofie",
+        "last_name": "Larsen",
+        "email": "sofie.larsen@example.com",
+        "country": "Denmark",
+        "city": "Jerslev Sj",
+        "phone": "91765310"
+    },
+    {
+        "customer_id": "bd9d6fe2-6cd6-46ad-940a-f794f9880a44",
+        "first_name": "August",
+        "last_name": "Sørensen",
+        "email": "august.sorensen@example.com",
+        "country": "Denmark",
+        "city": "Klitmøller",
+        "phone": "86736185"
+    },
+    {
+        "customer_id": "914a2466-f5fb-4667-a1ec-2fce14269208",
+        "first_name": "Lily",
+        "last_name": "Burke",
+        "email": "lily.burke@example.com",
+        "country": "United Kingdom",
+        "city": "Liverpool",
+        "phone": "01791 570903"
+    },
+    {
+        "customer_id": "42abc99b-be51-4171-86d1-4343eae0d877",
+        "first_name": "Gabriel",
+        "last_name": "Parker",
+        "email": "gabriel.parker@example.com",
+        "country": "United States",
+        "city": "Seymour",
+        "phone": "(708) 692-0586"
+    },
+    {
+        "customer_id": "a792837e-14b8-4498-bf44-bcbfa6956bff",
+        "first_name": "Kaylee",
+        "last_name": "Dros",
+        "email": "kaylee.dros@example.com",
+        "country": "Netherlands",
+        "city": "Dantumadiel",
+        "phone": "(014) 0429921"
+    },
+    {
+        "customer_id": "f89a88eb-63c7-4344-967a-87c345b33a3f",
+        "first_name": "Adam",
+        "last_name": "Miles",
+        "email": "adam.miles@example.com",
+        "country": "United Kingdom",
+        "city": "Stevenage",
+        "phone": "016974 85134"
+    },
+    {
+        "customer_id": "9ecc0bba-8ac5-4177-a9a0-8615fa362544",
+        "first_name": "Connor",
+        "last_name": "Franklin",
+        "email": "connor.franklin@example.com",
+        "country": "United Kingdom",
+        "city": "Salford",
+        "phone": "015395 00401"
+    },
+    {
+        "customer_id": "007d3a8b-d864-4158-a0d1-d74b228a464a",
+        "first_name": "Bastien",
+        "last_name": "Chevalier",
+        "email": "bastien.chevalier@example.com",
+        "country": "France",
+        "city": "Tourcoing",
+        "phone": "01-40-85-13-54"
+    },
+    {
+        "customer_id": "99c99fcd-a385-4722-ac78-53d96d0ac594",
+        "first_name": "Bianca",
+        "last_name": "Grøtan",
+        "email": "bianca.grotan@example.com",
+        "country": "Norway",
+        "city": "Hem",
+        "phone": "53614468"
+    },
+    {
+        "customer_id": "402aeca5-0157-4fd3-b708-0e0e870af955",
+        "first_name": "German",
+        "last_name": "Bravo",
+        "email": "german.bravo@example.com",
+        "country": "Spain",
+        "city": "Torrevieja",
+        "phone": "923-865-114"
+    },
+    {
+        "customer_id": "c2a5132c-d4ce-4da3-958d-421462e40a64",
+        "first_name": "Isabelle",
+        "last_name": "Byrd",
+        "email": "isabelle.byrd@example.com",
+        "country": "United Kingdom",
+        "city": "Exeter",
+        "phone": "015396 34831"
+    },
+    {
+        "customer_id": "9343287a-07b2-4601-b4c7-95c9611aa03d",
+        "first_name": "William",
+        "last_name": "Andersen",
+        "email": "william.andersen@example.com",
+        "country": "Denmark",
+        "city": "Hammel",
+        "phone": "97221376"
+    },
+    {
+        "customer_id": "c5f18f3f-bc43-470a-ad4a-ae1c9e522cbf",
+        "first_name": "Nicoline",
+        "last_name": "Larsen",
+        "email": "nicoline.larsen@example.com",
+        "country": "Denmark",
+        "city": "Bælum",
+        "phone": "64101659"
+    },
+    {
+        "customer_id": "6a03e1f2-9648-4faf-99a2-98f4689d5ca0",
+        "first_name": "Wilma",
+        "last_name": "Bishop",
+        "email": "wilma.bishop@example.com",
+        "country": "Australia",
+        "city": "Gladstone",
+        "phone": "04-7218-8187"
+    },
+    {
+        "customer_id": "b1e9ff3d-556a-48b9-bf05-4a87a3dc2d43",
+        "first_name": "Peter",
+        "last_name": "Langeland",
+        "email": "peter.langeland@example.com",
+        "country": "Norway",
+        "city": "Lakselv",
+        "phone": "53619645"
+    },
+    {
+        "customer_id": "e83d00c4-45c6-4f5d-91e0-311e750823ce",
+        "first_name": "Franklin",
+        "last_name": "Bates",
+        "email": "franklin.bates@example.com",
+        "country": "United Kingdom",
+        "city": "Swansea",
+        "phone": "017687 95156"
+    },
+    {
+        "customer_id": "d1053f07-d647-4fa4-8ad0-7fe1ba85305f",
+        "first_name": "Crystal",
+        "last_name": "Snyder",
+        "email": "crystal.snyder@example.com",
+        "country": "United States",
+        "city": "Colorado Springs",
+        "phone": "(611) 850-6476"
+    },
+    {
+        "customer_id": "3baf7372-472e-4bfb-a5dc-2b726b5f1134",
+        "first_name": "Rafaelo",
+        "last_name": "da Costa",
+        "email": "rafaelo.dacosta@example.com",
+        "country": "Brazil",
+        "city": "Caraguatatuba",
+        "phone": "(74) 1363-3626"
+    },
+    {
+        "customer_id": "dac5a2d9-85b2-4131-92d3-e799121ed836",
+        "first_name": "Amelia",
+        "last_name": "Solís",
+        "email": "amelia.solis@example.com",
+        "country": "Mexico",
+        "city": "Tacoaleche",
+        "phone": "(695) 508 0624"
+    },
+    {
+        "customer_id": "f5af7e29-f510-4889-9feb-77cf28b1f16b",
+        "first_name": "Mudrolyub",
+        "last_name": "Turchenko",
+        "email": "mudrolyub.turchenko@example.com",
+        "country": "Ukraine",
+        "city": "Antracit",
+        "phone": "(066) I26-0174"
+    },
+    {
+        "customer_id": "dbfee457-284c-429b-b3ab-b6488056fbe2",
+        "first_name": "Stephanie",
+        "last_name": "Elliott",
+        "email": "stephanie.elliott@example.com",
+        "country": "United Kingdom",
+        "city": "Westminster",
+        "phone": "016973 48500"
+    },
+    {
+        "customer_id": "8f7ab9e2-7466-4911-9d03-9a50d5e08add",
+        "first_name": "Pauline",
+        "last_name": "Chevalier",
+        "email": "pauline.chevalier@example.com",
+        "country": "France",
+        "city": "Lille",
+        "phone": "04-46-03-21-54"
+    },
+    {
+        "customer_id": "1b7bc9d2-fa8c-448a-b7ad-016219bec902",
+        "first_name": "Zeloí",
+        "last_name": "Pereira",
+        "email": "zeloi.pereira@example.com",
+        "country": "Brazil",
+        "city": "Jaboatão dos Guararapes",
+        "phone": "(12) 9076-4473"
+    },
+    {
+        "customer_id": "ac51db34-10cd-4205-aa6e-5489576f9dfb",
+        "first_name": "Andre",
+        "last_name": "Meyer",
+        "email": "andre.meyer@example.com",
+        "country": "United Kingdom",
+        "city": "Ripon",
+        "phone": "016973 47121"
+    },
+    {
+        "customer_id": "0d3bc9f9-8ba6-4a2f-b5a7-bdd79180ad1f",
+        "first_name": "Héctor",
+        "last_name": "Ballesteros",
+        "email": "hector.ballesteros@example.com",
+        "country": "Mexico",
+        "city": "Santiago Alseseca",
+        "phone": "(609) 475 8742"
+    },
+    {
+        "customer_id": "17ae2ba0-e9f4-408d-ac3f-9e8a4a952939",
+        "first_name": "Erin",
+        "last_name": "Castillo",
+        "email": "erin.castillo@example.com",
+        "country": "United Kingdom",
+        "city": "Leicester",
+        "phone": "016973 04241"
+    },
+    {
+        "customer_id": "7da87347-9d23-42b9-bc09-34d7b3c2c260",
+        "first_name": "Élsio",
+        "last_name": "Moreira",
+        "email": "elsio.moreira@example.com",
+        "country": "Brazil",
+        "city": "Rio de Janeiro",
+        "phone": "(54) 9140-9242"
+    },
+    {
+        "customer_id": "ff4222ce-ccff-4534-9dbb-c642771c6351",
+        "first_name": "Thomas",
+        "last_name": "Skorpen",
+        "email": "thomas.skorpen@example.com",
+        "country": "Norway",
+        "city": "Lysøysund",
+        "phone": "69351189"
+    },
+    {
+        "customer_id": "0d965095-bdcd-425f-96a9-db9489ac0b93",
+        "first_name": "Timmothy",
+        "last_name": "Mccoy",
+        "email": "timmothy.mccoy@example.com",
+        "country": "Australia",
+        "city": "Geelong",
+        "phone": "03-8001-9442"
+    },
+    {
+        "customer_id": "d276482f-62e5-4b7f-a606-13ef8470f178",
+        "first_name": "Alice",
+        "last_name": "Sonnenberg",
+        "email": "alice.sonnenberg@example.com",
+        "country": "Germany",
+        "city": "Landau in der Pfalz",
+        "phone": "0521-5766572"
+    },
+    {
+        "customer_id": "966bbf04-f196-47ae-aa76-3d37b14efd83",
+        "first_name": "Rafael",
+        "last_name": "Garrido",
+        "email": "rafael.garrido@example.com",
+        "country": "Spain",
+        "city": "Oviedo",
+        "phone": "954-089-085"
+    },
+    {
+        "customer_id": "102d9b11-7ad2-4945-928d-c8b8b6ca5cef",
+        "first_name": "Oya",
+        "last_name": "Bolatlı",
+        "email": "oya.bolatli@example.com",
+        "country": "Turkey",
+        "city": "Kayseri",
+        "phone": "(020)-145-2131"
+    },
+    {
+        "customer_id": "d1b6d9e5-1e1e-49b0-a811-b3b5d4467436",
+        "first_name": "سام",
+        "last_name": "کامروا",
+        "email": "sm.khmrw@example.com",
+        "country": "Iran",
+        "city": "کرمانشاه",
+        "phone": "008-85075283"
+    },
+    {
+        "customer_id": "f552ac35-d5e4-47b1-8212-4658a825ad77",
+        "first_name": "Silata",
+        "last_name": "Pustoviyt",
+        "email": "silata.pustoviyt@example.com",
+        "country": "Ukraine",
+        "city": "Ustilug",
+        "phone": "(097) J33-9846"
+    },
+    {
+        "customer_id": "103be6b1-33d1-4c25-a3c2-2247bf50e1b7",
+        "first_name": "Jennifer",
+        "last_name": "Carlson",
+        "email": "jennifer.carlson@example.com",
+        "country": "Ireland",
+        "city": "Nenagh",
+        "phone": "061-588-3227"
+    },
+    {
+        "customer_id": "9d05f020-5cee-430d-8f1f-0addc571994b",
+        "first_name": "Christopher",
+        "last_name": "Daniels",
+        "email": "christopher.daniels@example.com",
+        "country": "Ireland",
+        "city": "Kilcock",
+        "phone": "031-561-4654"
+    },
+    {
+        "customer_id": "65b4a900-701f-4600-ba55-d99f281ba6b1",
+        "first_name": "Siiri",
+        "last_name": "Joki",
+        "email": "siiri.joki@example.com",
+        "country": "Finland",
+        "city": "Akaa",
+        "phone": "04-648-694"
+    },
+    {
+        "customer_id": "36ff1309-5b91-443c-a284-0be69204e7bb",
+        "first_name": "Charlie",
+        "last_name": "Thomas",
+        "email": "charlie.thomas@example.com",
+        "country": "New Zealand",
+        "city": "Tauranga",
+        "phone": "(847)-968-8245"
+    },
+    {
+        "customer_id": "299db0cb-87b0-4042-a4a2-ee586641b3a3",
+        "first_name": "Eloísa",
+        "last_name": "Silva",
+        "email": "eloisa.silva@example.com",
+        "country": "Brazil",
+        "city": "Araguaína",
+        "phone": "(86) 5715-2966"
+    },
+    {
+        "customer_id": "84dfe385-21f0-4ef8-bd04-a53642283aeb",
+        "first_name": "Dora",
+        "last_name": "Moreau",
+        "email": "dora.moreau@example.com",
+        "country": "Switzerland",
+        "city": "Aegerten",
+        "phone": "077 110 47 44"
+    },
+    {
+        "customer_id": "d45af41d-505b-4441-a0e9-14970b48b01d",
+        "first_name": "Elisa",
+        "last_name": "Blanco",
+        "email": "elisa.blanco@example.com",
+        "country": "Mexico",
+        "city": "San Lorenzo Cuapiaxtla",
+        "phone": "(669) 040 2348"
+    },
+    {
+        "customer_id": "41559abc-2470-4d14-9d4a-4b9dc45611e7",
+        "first_name": "Silvija",
+        "last_name": "Kapetanović",
+        "email": "silvija.kapetanovic@example.com",
+        "country": "Serbia",
+        "city": "Veliko Gradište",
+        "phone": "021-8481-080"
+    },
+    {
+        "customer_id": "5a2779d4-63fe-40e3-9ef4-160eeceafdee",
+        "first_name": "Jeanette",
+        "last_name": "Martinez",
+        "email": "jeanette.martinez@example.com",
+        "country": "United States",
+        "city": "Austin",
+        "phone": "(920) 230-8843"
+    },
+    {
+        "customer_id": "3e59c65b-2645-4d99-9276-7413a0585606",
+        "first_name": "Nastasija",
+        "last_name": "Ivkov",
+        "email": "nastasija.ivkov@example.com",
+        "country": "Serbia",
+        "city": "Brus",
+        "phone": "029-0217-865"
+    },
+    {
+        "customer_id": "667e615f-9856-40dc-94ed-fd5ec9b36b2c",
+        "first_name": "Mónica",
+        "last_name": "León",
+        "email": "monica.leon@example.com",
+        "country": "Spain",
+        "city": "La Palma",
+        "phone": "954-056-358"
+    },
+    {
+        "customer_id": "56c9d427-a188-46bd-9fd5-6eec39fcae75",
+        "first_name": "Genesis",
+        "last_name": "Kuhn",
+        "email": "genesis.kuhn@example.com",
+        "country": "Australia",
+        "city": "Bowral",
+        "phone": "03-2490-5508"
+    },
+    {
+        "customer_id": "b520efd6-3cb2-4259-a776-6d5296ee6b3c",
+        "first_name": "بهاره",
+        "last_name": "گلشن",
+        "email": "bhrh.glshn@example.com",
+        "country": "Iran",
+        "city": "ایلام",
+        "phone": "016-86066339"
+    },
+    {
+        "customer_id": "87286d80-fa8a-4667-98ed-4dc1b2d291b1",
+        "first_name": "Allie",
+        "last_name": "White",
+        "email": "allie.white@example.com",
+        "country": "Ireland",
+        "city": "Ratoath",
+        "phone": "061-051-4918"
+    },
+    {
+        "customer_id": "37a0f787-ae3a-4805-a76e-a23872ca0074",
+        "first_name": "Alizee",
+        "last_name": "Rolland",
+        "email": "alizee.rolland@example.com",
+        "country": "France",
+        "city": "Angers",
+        "phone": "03-97-67-75-22"
+    },
+    {
+        "customer_id": "6f1e9e0e-6d7d-4f06-959b-4290dadd6930",
+        "first_name": "Russell",
+        "last_name": "Stanley",
+        "email": "russell.stanley@example.com",
+        "country": "Australia",
+        "city": "Bundaberg",
+        "phone": "05-5972-6035"
+    },
+    {
+        "customer_id": "4af41e80-bd42-4731-baaa-0aeb3435ba95",
+        "first_name": "Anton",
+        "last_name": "Toivonen",
+        "email": "anton.toivonen@example.com",
+        "country": "Finland",
+        "city": "Kitee",
+        "phone": "08-665-385"
+    },
+    {
+        "customer_id": "50c88a0c-4db6-4a09-b236-406733b7bb30",
+        "first_name": "Sofia",
+        "last_name": "King",
+        "email": "sofia.king@example.com",
+        "country": "United Kingdom",
+        "city": "Birmingham",
+        "phone": "016974 37330"
+    },
+    {
+        "customer_id": "6b7212a8-fe9e-4305-9ea8-6f0df1c8bf6f",
+        "first_name": "Mariano",
+        "last_name": "Crespo",
+        "email": "mariano.crespo@example.com",
+        "country": "Spain",
+        "city": "Murcia",
+        "phone": "977-410-293"
+    },
+    {
+        "customer_id": "e486d12d-5c5b-4d67-b43e-d3dbeb2dda41",
+        "first_name": "Anna-Lena",
+        "last_name": "Mey",
+        "email": "anna-lena.mey@example.com",
+        "country": "Germany",
+        "city": "Monheim am Rhein",
+        "phone": "0890-1093462"
+    },
+    {
+        "customer_id": "8eb84049-b6c7-42f5-a2a5-02ae40334bd7",
+        "first_name": "Arron",
+        "last_name": "Morris",
+        "email": "arron.morris@example.com",
+        "country": "United States",
+        "city": "Lancaster",
+        "phone": "(301) 882-9448"
+    },
+    {
+        "customer_id": "6592e978-c6af-4549-b437-3508e1d0b9cc",
+        "first_name": "Marlissa",
+        "last_name": "Tacken",
+        "email": "marlissa.tacken@example.com",
+        "country": "Netherlands",
+        "city": "Aa en Hunze",
+        "phone": "(098) 6139637"
+    },
+    {
+        "customer_id": "c0f3ca27-628e-4d92-a02b-b9889fb3c2ef",
+        "first_name": "Victoria",
+        "last_name": "Ljosland",
+        "email": "victoria.ljosland@example.com",
+        "country": "Norway",
+        "city": "Selvik",
+        "phone": "85435763"
+    },
+    {
+        "customer_id": "995ea093-c5c5-462d-9862-604730757e67",
+        "first_name": "Katherine",
+        "last_name": "Black",
+        "email": "katherine.black@example.com",
+        "country": "Ireland",
+        "city": "Athlone",
+        "phone": "061-135-4112"
+    },
+    {
+        "customer_id": "7908404c-e478-4a0f-9625-e28fe047dec1",
+        "first_name": "Karla",
+        "last_name": "Valverde",
+        "email": "karla.valverde@example.com",
+        "country": "Mexico",
+        "city": "Corral Nuevo",
+        "phone": "(634) 859 7796"
+    },
+    {
+        "customer_id": "2f828b1f-9e67-48b2-86aa-0deae76e2723",
+        "first_name": "Blagovid",
+        "last_name": "Ievtushok",
+        "email": "blagovid.ievtushok@example.com",
+        "country": "Ukraine",
+        "city": "Avdiyivka",
+        "phone": "(098) Z97-5235"
+    },
+    {
+        "customer_id": "eda115a4-7a48-478d-a651-77b6bf9b9e38",
+        "first_name": "Melvin",
+        "last_name": "Weaver",
+        "email": "melvin.weaver@example.com",
+        "country": "United States",
+        "city": "Birmingham",
+        "phone": "(208) 594-5911"
+    },
+    {
+        "customer_id": "76779475-acdf-4b3d-95ee-3dcaee3560d8",
+        "first_name": "Iva",
+        "last_name": "Radosavljević",
+        "email": "iva.radosavljevic@example.com",
+        "country": "Serbia",
+        "city": "Novi Sad",
+        "phone": "020-5370-592"
+    },
+    {
+        "customer_id": "685c922c-9097-4ca1-bd99-7358613402f2",
+        "first_name": "Angélica",
+        "last_name": "Rodríquez",
+        "email": "angelica.rodriquez@example.com",
+        "country": "Mexico",
+        "city": "Valle de Ignacio Allende",
+        "phone": "(659) 303 8490"
+    },
+    {
+        "customer_id": "03c3f443-cb68-48bb-9245-327112c626a6",
+        "first_name": "Melodie",
+        "last_name": "Harcourt",
+        "email": "melodie.harcourt@example.com",
+        "country": "Canada",
+        "city": "Shelbourne",
+        "phone": "B54 N87-0681"
+    },
+    {
+        "customer_id": "4a59583b-96c6-4647-9be7-8550aa1d79a9",
+        "first_name": "Dylan",
+        "last_name": "Gerard",
+        "email": "dylan.gerard@example.com",
+        "country": "France",
+        "city": "Saint-Étienne",
+        "phone": "01-57-56-40-21"
+    },
+    {
+        "customer_id": "6700731d-e60c-4c47-bf98-0d0a471dd51c",
+        "first_name": "Anica",
+        "last_name": "Peković",
+        "email": "anica.pekovic@example.com",
+        "country": "Serbia",
+        "city": "Žabari",
+        "phone": "038-3033-887"
+    },
+    {
+        "customer_id": "f9de3bdc-4252-4e19-98e9-0f8a8dddf6ee",
+        "first_name": "Britney",
+        "last_name": "Morgan",
+        "email": "britney.morgan@example.com",
+        "country": "Ireland",
+        "city": "Ballinasloe",
+        "phone": "071-787-6136"
+    },
+    {
+        "customer_id": "02df053a-01c6-430a-8374-c7fe3e5e8e31",
+        "first_name": "Jenny",
+        "last_name": "Little",
+        "email": "jenny.little@example.com",
+        "country": "Ireland",
+        "city": "Mullingar",
+        "phone": "031-734-1160"
+    },
+    {
+        "customer_id": "aff1ba83-9265-41e3-98c2-3d6256786515",
+        "first_name": "Óscar",
+        "last_name": "Villa",
+        "email": "oscar.villa@example.com",
+        "country": "Mexico",
+        "city": "Ixtapaluca",
+        "phone": "(687) 575 3615"
+    },
+    {
+        "customer_id": "6390c612-6fb8-4070-a460-47f010f108a5",
+        "first_name": "Efe",
+        "last_name": "Çankaya",
+        "email": "efe.cankaya@example.com",
+        "country": "Turkey",
+        "city": "Karaman",
+        "phone": "(273)-851-5994"
+    },
+    {
+        "customer_id": "6d1824df-7d80-40c5-8165-5590d4eb7512",
+        "first_name": "Egon",
+        "last_name": "Hemmer",
+        "email": "egon.hemmer@example.com",
+        "country": "Germany",
+        "city": "Oldenburg In Holstein",
+        "phone": "0670-9728150"
+    },
+    {
+        "customer_id": "42dcbe47-02fe-4eeb-a131-c25084a4ade1",
+        "first_name": "Zayan",
+        "last_name": "Sullad",
+        "email": "zayan.sullad@example.com",
+        "country": "India",
+        "city": "Berhampur",
+        "phone": "9566877907"
+    },
+    {
+        "customer_id": "e1daae1f-84d6-43c9-b0f9-a2139af1d4c8",
+        "first_name": "Korina",
+        "last_name": "Kapinos",
+        "email": "korina.kapinos@example.com",
+        "country": "Ukraine",
+        "city": "Zolochiv",
+        "phone": "(068) M65-9545"
+    },
+    {
+        "customer_id": "a20a828c-a7ca-4f86-ad2b-cd861afe72e4",
+        "first_name": "Rosa",
+        "last_name": "Christensen",
+        "email": "rosa.christensen@example.com",
+        "country": "Denmark",
+        "city": "Stenderup",
+        "phone": "73319597"
+    },
+    {
+        "customer_id": "bf42aacc-7a05-4329-a65d-b338479fbb15",
+        "first_name": "Donna",
+        "last_name": "Delissen",
+        "email": "donna.delissen@example.com",
+        "country": "Netherlands",
+        "city": "Katwijk",
+        "phone": "(063) 1725571"
+    },
+    {
+        "customer_id": "8fc38db7-a285-4b21-84e6-e57a6924f1ba",
+        "first_name": "عسل",
+        "last_name": "حیدری",
+        "email": "aasl.hydry@example.com",
+        "country": "Iran",
+        "city": "بابل",
+        "phone": "060-56474672"
+    },
+    {
+        "customer_id": "c5bdff8b-6e36-42c7-838e-1cbd700953bb",
+        "first_name": "Constance",
+        "last_name": "Carroll",
+        "email": "constance.carroll@example.com",
+        "country": "Australia",
+        "city": "Brisbane",
+        "phone": "09-2180-7459"
+    },
+    {
+        "customer_id": "a3f46ad6-8844-4340-a626-1fb9d203e8c8",
+        "first_name": "Gerald",
+        "last_name": "Laub",
+        "email": "gerald.laub@example.com",
+        "country": "Germany",
+        "city": "Viechtach",
+        "phone": "0736-9430154"
+    },
+    {
+        "customer_id": "b6f0f4be-96d5-4f84-b0a9-c8ee4cee4730",
+        "first_name": "Benjamin",
+        "last_name": "Lam",
+        "email": "benjamin.lam@example.com",
+        "country": "Canada",
+        "city": "Cornwall",
+        "phone": "P07 S15-4945"
+    },
+    {
+        "customer_id": "c5229301-657c-4232-8dd8-a350472652ec",
+        "first_name": "Dragoje",
+        "last_name": "Vidić",
+        "email": "dragoje.vidic@example.com",
+        "country": "Serbia",
+        "city": "Bački Petrovac",
+        "phone": "032-0919-015"
+    },
+    {
+        "customer_id": "f1dc936a-ca47-4a7e-b916-6ec388883fc9",
+        "first_name": "Israel",
+        "last_name": "Ureña",
+        "email": "israel.urena@example.com",
+        "country": "Mexico",
+        "city": "Ojo de Agua de Palmillas",
+        "phone": "(696) 557 8943"
+    },
+    {
+        "customer_id": "c4e3bfa1-1a4d-42c0-b635-1096e3c198e8",
+        "first_name": "Olivia",
+        "last_name": "Cunningham",
+        "email": "olivia.cunningham@example.com",
+        "country": "Ireland",
+        "city": "Athy",
+        "phone": "021-466-6382"
+    },
+    {
+        "customer_id": "f3f25f45-e2ad-49bd-9a66-12c0c77b7d03",
+        "first_name": "Roger",
+        "last_name": "Crawford",
+        "email": "roger.crawford@example.com",
+        "country": "United Kingdom",
+        "city": "Norwich",
+        "phone": "016974 29748"
+    },
+    {
+        "customer_id": "7969bef5-0f7b-49cc-a4c2-a9514f1cd1c8",
+        "first_name": "Rogerio",
+        "last_name": "Solís",
+        "email": "rogerio.solis@example.com",
+        "country": "Mexico",
+        "city": "Ciudad Santa Catarina",
+        "phone": "(692) 851 9246"
+    },
+    {
+        "customer_id": "eef67952-7448-475c-9700-f543b004f5d5",
+        "first_name": "Cathriona",
+        "last_name": "Pierce",
+        "email": "cathriona.pierce@example.com",
+        "country": "Ireland",
+        "city": "Kilcock",
+        "phone": "041-869-1060"
+    }
+]
