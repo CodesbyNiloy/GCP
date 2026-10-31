@@ -10,6 +10,21 @@ DummyJSON API ──► Python (requests) ──► BigQuery (raw tables) ──
  /carts                                   raw_cart_items
 ```
 
+### BigQuery Dataset and Raw Tables
+Raw tables loaded by the ingestion script into the `Ecommerce_Data` dataset.
+
+![BigQuery datasets and raw tables](screenshots/datasets.png)
+
+### Product and Cart Join
+SQL join of product attributes with cart activity, the basis for the mart view.
+
+![Products and carts join query](screenshots/products_cart_join.png)
+
+### Mart View: `mart_product_performance`
+Analytics-ready view consumed by Looker Studio.
+
+![mart_product_performance view](screenshots/mart_product_view.png)
+
 ## Tech Stack
 
 | Layer | Tool |
@@ -34,7 +49,6 @@ DummyJSON API ──► Python (requests) ──► BigQuery (raw tables) ──
 | View | Description |
 |---|---|
 | `mart_product_performance` | Product attributes (`category`, `listed_price`, `rating`, `stock`) joined with cart activity (`units_in_carts`, `number_of_carts`, `sample_cart_value`, `discounted_cart_value`, `estimated_cart_discount`). Products never added to a cart are kept via `LEFT JOIN` with zeroed metrics. |
-
 
 ## Prerequisites
 
@@ -104,5 +118,3 @@ After loading, `queries.sql` covers:
    - Table: top products by `units_in_carts` with `rating` and `stock`
    - Scatter: `listed_price` vs. `units_in_carts`
    - Filter control: `category`
-
-
